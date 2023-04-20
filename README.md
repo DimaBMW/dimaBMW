@@ -33,11 +33,13 @@ I am a novice developer. My path to it began at school, where I started learning
 | ✅https://stepik.org/course/38218/syllabus Веб-разработка для начинающих: HTML и CSS                           | 20/04/2023 - 20/04/2023|
 
 ---
-### 📃 Сertificate:
+### 📃 Сertificates:
 ---  
 ### 💻 Codewars:
 ![codewars](https://www.codewars.com/users/DimaBMW/badges/large)
-
+| Курсы                                                           | Дата              |
+| ----------------------------------------------------------------| :---------------: |
+| https://stepik.org/certificate/4b08c8faa2a95b26c3d348788c33b231cf062fe6.pdf Веб-разработка для начинающих: HTML и CSS   | 20/04/2023 - 20/04/2023|
 ---
 ### ⚙️ My GitHub Stats
 <table>
