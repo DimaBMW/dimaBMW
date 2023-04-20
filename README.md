@@ -30,7 +30,7 @@ I am a novice developer. My path to it began at school, where I started learning
 ### 💻 Completed courses:
 | Курсы                                                           | Дата              |
 | ----------------------------------------------------------------| :---------------: |
-| https://brainz.croc.ru/java Введение в язык Java и платформу  для разработки                            | 02/2023 - xx/2023|
+| https://stepik.org/course/38218/syllabus Веб-разработка для начинающих: HTML и CSS                           | 20/04/2023 - xx/2023|
 
 ---
 ### 💻 Codewars:
