@@ -1,6 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Yakovlev Dmitry 
 ---
-### 👨🏻‍💻About me:
+### 👨🏻‍💻About me:❤️
 I am a novice developer. My path to it began at school, where I started learning such a wonderful language as C++, it was the 7th grade. Then it was time to take exams, and I had to learn Pascal ABC, now I am studying at the Faculty of Applied Computer Science in the first year of the University of KubGau. I try myself in web development and C++ development.
 * 🌍  I'm based in Russian->Krasnodar.
 * ✉️  You can contact me at [Dimapro9500@mail.ru](mailto:Dimapro9500@mail.ru).
