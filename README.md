@@ -20,6 +20,7 @@ I am a novice developer. My path to it began at school, where I started learning
 
 <p align="left"> 
  <img src="https://icon-icons.com/icons2/2107/PNG/512/file_type_light_prettier_icon_130445.png" width="36" height="36" alt="prettier" />
+ <img src="https://icon-icons.com/icons2/2107/PNG/512/file_type_eslint_icon_130613.png" width="36" height="36" alt="prettier" />
 </p>
 
 ---
