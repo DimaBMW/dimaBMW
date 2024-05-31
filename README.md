@@ -35,6 +35,8 @@ I am a novice developer. My path to it began at school, where I started learning
   </a>
 </p>
 
+---
+
 ### 🙍‍♂️ Socials:
 
 <div id="badges">
@@ -53,6 +55,8 @@ I am a novice developer. My path to it began at school, where I started learning
     <img src="https://skillicons.dev/icons?i=ae,au,blender,figma,ai,notion,ps,qt,unreal,unity,xd" />
   </a>
 </p>
+
+---
 
 ### 🧑‍💻 Text editors:
 <p align="left">
