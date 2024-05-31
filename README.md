@@ -8,8 +8,6 @@
 I am a novice developer. My path to it began at school, where I started learning such a wonderful language as C++, it was the 7th grade. Then it was time to take exams, and I had to learn Pascal ABC, now I am studying at the Faculty of Applied Computer Science in the first year of the University of KubGau. I try myself in web development and C++ development.
 * 🌍  I'm based in Russian->Krasnodar.
 * ✉️  You can contact me at [Dimapro9500@mail.ru](mailto:Dimapro9500@mail.ru).
-* 🧠  I'm learning C++ and Qt Creator and web-development.
-* ⚡  I want to learn a new profession and find a job.
 ---
 ### 💡 Skills: 
 
