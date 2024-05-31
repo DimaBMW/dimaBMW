@@ -1,7 +1,6 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Yakovlev Dmitry 
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Dima</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<h3 align="center">Fortend developer from Russia 🇷🇺</h3>
 ---
 ### 👨🏻‍💻About me:❤️
 I am a novice developer. My path to it began at school, where I started learning such a wonderful language as C++, it was the 7th grade. Then it was time to take exams, and I had to learn Pascal ABC, now I am studying at the Faculty of Applied Computer Science in the first year of the University of KubGau. I try myself in web development and C++ development.
