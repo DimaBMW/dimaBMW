@@ -28,7 +28,16 @@ I am a novice developer. My path to it began at school, where I started learning
 </p>
 
 ---
-### Socials
+
+### ✨ Сore technologies:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,babel,react,redux,sass,html,jest,ts,vite" />
+  </a>
+</p>
+
+### 🙍‍♂️ Socials:
 
 <div id="badges">
     <a href="https://t.me/BMW_Maflya" target="_blank">
@@ -40,14 +49,14 @@ I am a novice developer. My path to it began at school, where I started learning
   </div>
 
 ---
-### Other technologies
+### ⭕ Other technologies:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ae,au,blender,figma,ai,notion,ps,qt,unreal,unity,xd" />
   </a>
 </p>
 
-### Text editors
+### 🧑‍💻 Text editors:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,sublime" />
