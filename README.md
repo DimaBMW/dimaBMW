@@ -13,7 +13,7 @@ I am a novice developer. My path to it began at school, where I started learning
 ---
 ### 💡 Skills: 
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,babel,bash,c,cs,cpp,css,docker,html,htmx,js,jest,less,nodejs,npm,powershell,react,redux,sass,svelte,tailwind,ts,vite" />
   </a>
@@ -31,7 +31,7 @@ I am a novice developer. My path to it began at school, where I started learning
 
 ### ✨ Сore technologies:
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,babel,react,redux,sass,html,jest,ts,vite" />
   </a>
@@ -50,14 +50,14 @@ I am a novice developer. My path to it began at school, where I started learning
 
 ---
 ### ⭕ Other technologies:
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ae,au,blender,figma,ai,notion,ps,qt,unreal,unity,xd" />
   </a>
 </p>
 
 ### 🧑‍💻 Text editors:
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,sublime" />
   </a>
