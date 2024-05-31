@@ -60,6 +60,8 @@ I am a novice developer. My path to it began at school, where I started learning
 ---  
 ### 💻 Codewars:
 ![codewars](https://www.codewars.com/users/DimaBMW/badges/large)
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=DimaYakovlev&theme=dark)](https://github.com/DimaBMW/leetcode-stats)
 ---
 ### ⚙️ My GitHub Stats
 <table>
