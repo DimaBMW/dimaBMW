@@ -1,7 +1,9 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Dima</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Fortend developer from Russia 🇷🇺</h3>
+
 ---
+
 ### 👨🏻‍💻About me:❤️
 I am a novice developer. My path to it began at school, where I started learning such a wonderful language as C++, it was the 7th grade. Then it was time to take exams, and I had to learn Pascal ABC, now I am studying at the Faculty of Applied Computer Science in the first year of the University of KubGau. I try myself in web development and C++ development.
 * 🌍  I'm based in Russian->Krasnodar.
