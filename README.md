@@ -15,7 +15,7 @@ I am a novice developer. My path to it began at school, where I started learning
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git, babel, bash, c, cs, cpp, css, docker, html, htmx, js, jest, less, nodejs, npm, powershell, react, redux, sass, svelte, tailwind, ts, vite" />
+    <img src="https://skillicons.dev/icons?i=git,babel,bash,c,cs,cpp,css,docker,html,htmx,js,jest,less,nodejs,npm,powershell,react,redux,sass,svelte,tailwind,ts,vite" />
   </a>
 </p>
  
