@@ -70,12 +70,14 @@ I am a novice developer. My path to it began at school, where I started learning
 | Курсы                                                           | Дата              |
 | ----------------------------------------------------------------| :---------------: |
 | ✅https://stepik.org/course/38218/syllabus Веб-разработка для начинающих: HTML и CSS                           | 20/04/2023 - 20/04/2023|
+| ✅https://stepik.org/course/114165/syllabus Фундаментальный JavaScript                                         | 11/07/2024 - 21/07/2024|
 
 ---
 ### 📃 Сertificates:
 | Сertificates                                                    | Дата              |
 | ----------------------------------------------------------------| :---------------: |
 | https://stepik.org/certificate/4b08c8faa2a95b26c3d348788c33b231cf062fe6.pdf Веб-разработка для начинающих: HTML и CSS   |20/04/2023|
+| https://stepik.org/certificate/f61f40f8a30dbb8045a20e53b9d9eee596077745.pdf Фундаментальный JavaScript                  |21/07/2024|
 ---  
 ### <img src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" alt="git" width="20" height="20"/> LeetCode:
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=DimaYakovlev&theme=dark)](https://github.com/DimaBMW/leetcode-stats)
