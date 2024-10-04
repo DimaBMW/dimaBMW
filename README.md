@@ -4,7 +4,7 @@
 
 ---
 
-### About me:
+## About me:
 My path to it began at school, where I started learning such a wonderful language as C++; it was the 7th grade. Then it was time to take the exams, and I had to study Pascal ABC. Now I study at the Faculty of Applied Computer Science at the University of KubGAU. My main focus is frontend. My goal is to be a full-stack programmer. I chose Java developer as the second direction; this language is very sympathetic to me. I speak 4 languages: Russian, English, French, and Czech. I dream of working in such campaigns as Google, Amazon, Microsoft,...
 
 * 🌍 I'm based in Russian -> Krasnodar.
