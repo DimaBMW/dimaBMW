@@ -82,16 +82,11 @@ My path to it began at school, where I started learning such a wonderful languag
 ---  
 ### LeetCode ( Java )
 ---
-### ⚙️ My GitHub Stats
-<table>
-  <tr>
-    <td>
-      <a href="http://www.github.com/DimaBMW"><img src="https://github-readme-stats.vercel.app/api?username=DimaBMW&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DimaBMW's GitHub stats" /></a>
-    </td>
-    <td>
-      <a href="https://github.com/DimaBMW" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimaBMW&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-    </td>
-  </tr>
-</table>
 
----
+###
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=dimaBMW&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph" />
+<img src="https://streak-stats.demolab.com?user=dimaBMW&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dimaBMW&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />
+</div>
