@@ -30,6 +30,7 @@ My path to it began at school, where I started learning such a wonderful languag
 ---
 ## Java developer
  <p>soon ...</p>
+ 
 ---
 
 ### 🙍‍♂️ Socials:
