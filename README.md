@@ -10,6 +10,8 @@ My path to it began at school, where I started learning such a wonderful languag
 * 🌍 I'm based in Russian -> Krasnodar.
 * ✉️  You can contact me at -> [Dimapro9500@mail.ru](mailto:Dimapro9500@mail.ru).
 * 🆃 Telegram -> @dima_yakovlev_ru
+
+[![](https://visitcount.itsvg.in/api?id=dimaBMW&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
 ### 💡 Skills: 
 
