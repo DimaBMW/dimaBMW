@@ -56,6 +56,14 @@ I am a novice developer. My path to it began at school, where I started learning
 </p>
 
 ---
+### ❇️ IDE
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=idea,webstorm" />
+  </a>
+</p>
+
+---
 ### 💻 Completed courses:
 | Курсы                                                           | Дата              |
 | ----------------------------------------------------------------| :---------------: |
