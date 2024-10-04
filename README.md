@@ -51,7 +51,7 @@ I am a novice developer. My path to it began at school, where I started learning
 ### 🧑‍💻 Text editors:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,sublime" />
+    <img src="https://skillicons.dev/icons?i=vscode,sublime,atom,vim" />
   </a>
 </p>
 
@@ -59,7 +59,7 @@ I am a novice developer. My path to it began at school, where I started learning
 ### ❇️ IDE
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,webstorm" />
+    <img src="https://skillicons.dev/icons?i=idea,webstorm,visualstudio" />
   </a>
 </p>
 
