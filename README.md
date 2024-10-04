@@ -91,9 +91,3 @@ My path to it began at school, where I started learning such a wonderful languag
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/dimaBMW/dimaBMW/output/snake.svg" alt="Snake animation" />
-
-###
