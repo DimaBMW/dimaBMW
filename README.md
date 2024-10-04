@@ -4,10 +4,12 @@
 
 ---
 
-### 👨🏻‍💻About me:❤️
-I am a novice developer. My path to it began at school, where I started learning such a wonderful language as C++, it was the 7th grade. Then it was time to take exams, and I had to learn Pascal ABC, now I am studying at the Faculty of Applied Computer Science in the first year of the University of KubGau. I try myself in web development and C++ development.
-* 🌍  I'm based in Russian->Krasnodar.
-* ✉️  You can contact me at [Dimapro9500@mail.ru](mailto:Dimapro9500@mail.ru).
+### About me:
+My path to it began at school, where I started learning such a wonderful language as C++; it was the 7th grade. Then it was time to take the exams, and I had to study Pascal ABC. Now I study at the Faculty of Applied Computer Science at the University of KubGAU. My main focus is frontend. My goal is to be a full-stack programmer. I chose Java developer as the second direction; this language is very sympathetic to me. I speak 4 languages: Russian, English, French, and Czech. I dream of working in such campaigns as Google, Amazon, Microsoft,...
+
+* 🌍 I'm based in Russian -> Krasnodar.
+* ✉️  You can contact me at -> [Dimapro9500@mail.ru](mailto:Dimapro9500@mail.ru).
+* 🆃 Telegram -> @dima_yakovlev_ru
 ---
 ### 💡 Skills: 
 
