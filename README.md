@@ -27,16 +27,6 @@ I am a novice developer. My path to it began at school, where I started learning
 
 ---
 
-### ✨ Сore technologies:
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,babel,react,redux,sass,html,jest,ts,vite" />
-  </a>
-</p>
-
----
-
 ### 🙍‍♂️ Socials:
 
 <div id="badges">
