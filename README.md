@@ -56,7 +56,7 @@ My path to it began at school, where I started learning such a wonderful languag
 ### 🧑‍💻 Text editors:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,sublime,atom,vim" />
+    <img src="https://skillicons.dev/icons?i=vscode,sublime,atom,vim,neovim" />
   </a>
 </p>
 
