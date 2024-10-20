@@ -17,7 +17,7 @@ My path to it began at school, where I started learning such a wonderful languag
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,babel,bash,c,cs,cpp,css,docker,html,htmx,js,jest,less,nodejs,npm,powershell,react,redux,sass,svelte,tailwind,ts,vite,bun,fastapi" />
+    <img src="https://skillicons.dev/icons?i=git,babel,bash,c,cs,cpp,css,docker,html,htmx,js,jest,less,nodejs,npm,powershell,react,redux,sass,svelte,tailwind,ts,vite,bun,fastapi,nextjs,tailwind,threejs,vitest,webpack" />
   </a>
 </p>
  
