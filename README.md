@@ -19,7 +19,7 @@ My path to it began at school, where I started learning such a wonderful languag
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,babel,bash,c,cs,cpp,css,docker,html,htmx,js,jest,less,nodejs,npm,powershell,react,redux,sass,svelte,tailwind,ts,vite,bun,fastapi,nextjs,tailwind,threejs,vitest,webpack" />
   </a>
-  <img src="https://zod.dev/logo.svg" width="24px" height="24px"/>
+  <img src="https://zod.dev/logo.svg" width="48px" height="48px"/>
 </p>
  
 ---
